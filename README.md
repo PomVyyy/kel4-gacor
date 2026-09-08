@@ -1,6 +1,6 @@
 # Informatics Trio Portfolio
 
-Website portofolio Squad 031 Teknik Informatika UIN Syarif Hidayatullah Jakarta.
+Website portofolio Squad Teknik Informatika UIN Syarif Hidayatullah Jakarta.
 
 - **Live Website**: https://pomvyyy.github.io/kel4-gacor/
 - **Anggota Tim**:
