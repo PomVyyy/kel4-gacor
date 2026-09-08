@@ -6,4 +6,4 @@ Website portofolio Squad Teknik Informatika UIN Syarif Hidayatullah Jakarta.
 - **Anggota Tim**:
   1. Muhammad Hafizh Ramadhan
   2. Rizqy Febrian Arbama
-  3. Muhammad Hilmi Fattah
+  3. Muhammad Hilmi James Fattah
